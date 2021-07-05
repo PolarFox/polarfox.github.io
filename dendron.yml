@@ -17,6 +17,7 @@ journal:
     firstDayOfWeek: 1
 site:
     copyAssets: true
+    siteUrl: https://pages.polarfox.net/
     siteHierarchies:
         - root
     siteRootDir: docs
